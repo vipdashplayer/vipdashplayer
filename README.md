@@ -1,3 +1,7 @@
+App runs on Android 8+ (minSdk 26) — Android TV, Google TV, Fire TV, Android phones and tablets. Signed APK, single file, no Play Store dependency.
+Free demo build available at https://vipdashplayer.net if anyone wants to give it a spin.
+
+
 Sources & playlist formats
 Pretty much anything you throw at it works as a source:
 
