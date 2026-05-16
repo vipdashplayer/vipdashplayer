@@ -218,10 +218,6 @@ Signed APK, single file, no Play Store dependency.
 
 ### Free demo build available at **[vipdashplayer.net](https://vipdashplayer.net)**
 
-If anyone wants to try it and tell me what's broken or what I'm missing, I'd really appreciate it.
-Especially curious about edge cases on exotic provider setups, weird catchup formats,
-DRM streams I haven't tested yet, and anything that just feels off on your hardware.
-
 **Thanks for reading.**
 
 </div>
