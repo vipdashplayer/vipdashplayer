@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ViP Dash Player
+# ViPDashPlayer
 
 ### A full-blown IPTV player for Android TV — would love some honest feedback
 
